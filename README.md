@@ -28,11 +28,19 @@ Sometimes you just need a simple app to quickly sketch an idea or doodle somethi
 
 ## Screenshots
 
+
+
+
+
+
+
+
+
 <p align="center">
-  <img src="screenshots/photo_1.jpg" width="200" alt="Blank Canvas" />
-  <img src="screenshots/photo_2.jpg" width="200" alt="Drawing Lines" />
-  <img src="screenshots/photo_3.jpg" width="200" alt="Color Picker" />
-  <img src="screenshots/photo_4.jpg" width="200" alt="Drawing Example" />
+  <img src="screenshots/Screenshot 2026-01-06 042156.png" width="200" alt="Blank Canvas" />
+  <img src="screenshots/Screenshot 2026-01-06 042238.png" width="200" alt="Drawing Lines" />
+  <img src="screenshots/Screenshot 2026-01-06 042258.png" width="200" alt="Color Picker" />
+  <img src="screenshots/Screenshot 2026-01-06 042323.png" width="200" alt="Drawing Example" />
 </p>
 
 ## Use Cases
